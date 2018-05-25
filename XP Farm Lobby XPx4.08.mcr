@@ -96,7 +96,7 @@ DELAY : 250
 TYPE TEXT : Only move slightly when using knifes, glock, uzi, etc...
 Keyboard : Enter : KeyPress
 DELAY : 250
-TYPE TEXT : You can get this script for https://www.jitbit.com/macro-recorder from https://gist.github.com/Bluscream/4e52d79da0ef328f7e7e38da1a8859cb
+TYPE TEXT : You can get this script for https://www.jitbit.com/macro-recorder from github.com/Bluscream/SSLMacros
 Keyboard : Enter : KeyPress
 DELAY : 3000
 WAIT FOR USER : 32 : 3 : 0 : 10000
